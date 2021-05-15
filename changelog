@@ -1,7 +1,8 @@
-Version 0.2 Changelog:
-Bounty auto farm detection coming soon
+Version 0.21 Changelog:
+Added bounty auto farm detection
+Increased delay to reduce lag
 Rewrote script
 Changed detection part
 Added detection if script is already running
 Changed deobfuscation variable name
-Added noise when crash detected
+Added noise when crash is detected
