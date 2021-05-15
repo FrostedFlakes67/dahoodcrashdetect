@@ -4,3 +4,4 @@ Rewrote script
 Changed detection part
 Added detection if script is already running
 Changed deobfuscation variable name
+Added noise when crash detected
