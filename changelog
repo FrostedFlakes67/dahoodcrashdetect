@@ -1,8 +1,7 @@
-Version 0.21 Changelog:
-Added bounty auto farm detection
-Increased delay to reduce lag
-Rewrote script
-Changed detection part
-Added detection if script is already running
-Changed deobfuscation variable name
-Added noise when crash is detected
+Version 0.22 Changelog:
+Rewrote script - 0.2
+Changed detection part - 0.2
+Added detection if script is already running - 0.21
+Changed deobfuscation variable name - 0.2
+Added noise when crash is detected - 0.21
+Added crash monitor!! (Only for public servers currently) - 0.22
