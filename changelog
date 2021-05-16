@@ -1,4 +1,4 @@
-Version 0.221 Changelog:
+Version 0.222 Changelog:
 Rewrote script - 0.2
 Changed detection part - 0.2
 Added detection if script is already running - 0.21
@@ -6,3 +6,4 @@ Changed deobfuscation variable name - 0.2
 Added noise when crash is detected - 0.21
 Added crash monitor!! (Only for public servers currently) - 0.22
 Updated crash monitor math to have more accurate estimates - 0.221
+Fixed cancel option - 0.222
